@@ -1,11 +1,11 @@
 
 
   # DJI Marker to Chapter Injector
-Converts DJI camera highlight markers into standard MP4 chapters for video editors and players.
+Converts DJI camera highlight markers into standard MP4 chapters for video players (tested with Potplayer).
 
 ## The Problem
 
-DJI cameras (like the Action 6) let you press the Quick Switch button to create markers while recording. Problem is, these markers only show up on the camera itself. Your video editor (DaVinci Resolve, Premiere, etc.) can't see them.
+DJI cameras (like the Action 6) let you press the Quick Switch button to create markers while recording. Problem is, these markers only show up on the camera itself. Your video player cannot see them.
 
 ## The Solution
 
